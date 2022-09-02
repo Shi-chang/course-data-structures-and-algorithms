@@ -1,5 +1,5 @@
 /**
- * This class implements the basic functions of a dynamic array.
+ * This class implements the basic functions of an array.
  *
  * @param <E> the generic type
  */
