@@ -1,5 +1,6 @@
 # Overview
-This repository contains my coding practice of constructing advanced data structures using very primitive ones.
+<p>This repository contains my coding practice of constructing some advanced data structures using very primitive ones with the guidance from a online course.</p>
+<p>While I was taking this course, I was also taking a university course about data structures and algorithms using C. Personally, I am very interested in Java, so I decided to take this online course as a supplement.</p>
 
 # What have I learned
 1. More coding experience in Java.
