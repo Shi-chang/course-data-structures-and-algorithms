@@ -5,7 +5,7 @@ import java.util.ArrayList;
  */
 public class MaxHeap<E extends Comparable<E>> {
 
-    // A list is used to store the elements for the heap
+    // A list is used to store the elements for the heap.
     private ArrayList<E> data;
 
     /**
@@ -24,11 +24,11 @@ public class MaxHeap<E extends Comparable<E>> {
     }
 
     /**
-     * Constructs a max heap using a random list
+     * Constructs a max heap using a random list.
      * @param arr
      */
     public MaxHeap(ArrayList<E> arr) {
-        // Puts the elements from the argument to the list
+        // Puts the elements from the argument to the list.
         for (int i = 0; i < arr.size(); i++) {
             data.set(i, arr.get(i));
         }
@@ -192,7 +192,7 @@ public class MaxHeap<E extends Comparable<E>> {
 
     /**
      * Extracts the max element from the heap, replaces it with the specified element,
-     * and sift down the new element to the correnct position.
+     * and sift down the new element to the correct position.
      *
      * @param e the element to be added
      * @return the max element
